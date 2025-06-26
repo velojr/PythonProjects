@@ -1,1 +1,1 @@
-Variety of Porjects created with Python while learning a course.
+Variety of Projects created with Python while learning a course.
